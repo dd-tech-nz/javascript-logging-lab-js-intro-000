@@ -1,3 +1,3 @@
 console.error("HALP!")
 console.log("This is a working as should....")
-console.warning("Please dont do this.")
+console.warn("Please dont do this.")
